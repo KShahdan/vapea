@@ -1,0 +1,93 @@
+
+<svg version="1.1" id="logos" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="670.771px" height="83.827px" viewBox="0 0 670.771 83.827" enable-background="new 0 0 670.771 83.827"
+	 xml:space="preserve">
+
+ 
+<defs>
+	<linearGradient id="lightGradient">
+        <stop offset="0%" stop-color="red">
+          <animate attributeName="stop-color" values="black; red" dur="1.5s" fill="forwards" /> 
+        </stop>
+        <stop offset="100%" stop-color="black">
+          <animate attributeName="stop-color" values="black; red" dur="1.5s" fill="forwards" begin="1.5s"/> 
+        </stop>
+    </linearGradient> 
+	<style type="text/css">
+		.art{
+			stroke-dasharray: 4000;
+			stroke-dashoffset: 0;
+			-webkit-animation: dash 10s linear forwards;
+			-o-animation: dash 10s linear forwards;
+			-moz-animation: dash 10s linear forwards;
+			animation: dash 10s linear forwards;
+			fill: transparent;
+		}
+
+		#logos{
+			cursor: pointer;
+		}
+
+		#logos:hover .art{
+			fill: rgba(255,255,255,0.6);
+			transition: .8s;
+		}
+
+		@-webkit-keyframes dash{
+			from{
+				stroke-dashoffset: 4000;
+			}
+			to{
+				stroke-dashoffset: 0;
+			}
+		}
+	</style>
+	
+</defs> 
+<g>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M36.309,2.562h9.912l2.36,78.704h-8.377
+		L38.668,15.66h-0.236L24.981,55.188L11.529,15.66h-0.236L9.759,81.266H1.5l2.36-78.704h9.794l11.328,33.394L36.309,2.562z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M117.609,41.855
+		c0,9.911,0.354,40.472-21.829,40.472c-22.419,0-21.83-30.324-21.83-40.472C73.95,28.875,74.776,1.5,95.78,1.5
+		C117.963,1.5,117.609,31.471,117.609,41.855z M82.21,41.855c0,21.239,2.478,33.038,13.57,33.038
+		c13.688,0,13.569-19.351,13.569-33.038c0-14.868,0.354-32.921-13.569-32.921C81.856,8.934,82.21,30.291,82.21,41.855z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M188.408,41.855
+		c0,9.911,0.354,40.472-21.829,40.472c-22.419,0-21.83-30.324-21.83-40.472c0-12.979,0.826-40.355,21.83-40.355
+		C188.762,1.5,188.408,31.471,188.408,41.855z M153.009,41.855c0,21.239,2.478,33.038,13.57,33.038
+		c13.688,0,13.569-19.351,13.569-33.038c0-14.868,0.354-32.921-13.569-32.921C152.655,8.934,153.009,30.291,153.009,41.855z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M216.847,2.562h9.912l23.363,66.196l0.236-0.236
+		l-0.354-17.582V2.562h7.906v78.704h-9.912l-23.363-66.314l-0.236,0.236l0.354,17.818v48.261h-7.906V2.562z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M319.504,20.498
+		c-1.298-5.782-4.13-11.563-10.855-11.563c-7.434,0-10.384,6.018-10.384,12.625c0,6.372,1.298,8.378,13.688,15.812
+		c9.676,5.781,16.283,10.619,16.283,22.773c0,12.389-6.607,22.182-19.823,22.182c-13.923,0-18.997-9.203-20.177-21.711l7.906-1.062
+		c1.062,8.731,2.95,15.339,12.508,15.339c6.844,0,11.682-4.602,11.682-14.041c0-10.383-6.726-13.924-14.868-18.643
+		c-9.086-5.311-15.104-9.086-15.104-20.65c0-10.62,7.08-20.06,18.29-20.06c11.092,0,16.52,7.906,18.525,17.817L319.504,20.498z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M358.917,2.562h7.904v33.039h24.309V2.562h7.904
+		v78.704h-7.904V42.68h-24.309v38.586h-7.904V2.562z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M445.763,9.642h-10.619v-7.08h29.262v7.08h-10.736
+		v64.544h10.736v7.08h-29.262v-7.08h10.619V9.642z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M500.042,2.562h9.912l23.363,66.196l0.236-0.236
+		l-0.355-17.582V2.562h7.906v78.704h-9.912l-23.363-66.314l-0.236,0.236l0.355,17.818v48.261h-7.906V2.562z"/>
+	<path class="art" fill="url(#lightGradient)"  stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M574.499,2.562h38.348v7.08h-30.441v25.959h25.133
+		v7.079h-25.133v31.506h30.441v7.08h-38.348V2.562z"/>
+	<path class="art" fill="url(#lightGradient)" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M628.181,73.569h4.785v7.697h-4.785V73.569z"/>
+	<path class="art" fill="url(#lightGradient)"  stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M655.581,78.266
+		c-1.17,1.889-2.91,3.27-5.189,3.27c-5.219,0-6-6.299-6-10.26c0-3.99,0.781-10.289,6-10.289c2.279,0,3.84,1.32,4.891,3.24
+		l-1.711,1.02c-0.629-1.26-1.65-2.37-3.18-2.37c-3.66,0-3.9,5.76-3.9,8.399c0,2.609,0.24,8.369,3.9,8.369
+		c1.561,0,2.791-1.289,3.541-2.52L655.581,78.266z"/>
+	<path class="art" fill="url(#lightGradient)"  stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M670.521,71.247c0,2.52,0.09,10.289-5.549,10.289
+		c-5.701,0-5.551-7.709-5.551-10.289c0-3.301,0.211-10.26,5.551-10.26C670.61,60.987,670.521,68.606,670.521,71.247z
+		 M661.521,71.247c0,5.398,0.631,8.398,3.451,8.398c3.479,0,3.449-4.92,3.449-8.398c0-3.78,0.09-8.37-3.449-8.37
+		C661.431,62.876,661.521,68.306,661.521,71.247z"/>
+</g>
+</svg>
+
+<!--svg viewBox="0 0 360 160" width="360" height="160">
+  <defs>
+      
+  </defs>  
+  <circle cx="80" cy="80" r="50" fill="url(#lightGradient)"/>
+ 
+    <animate attributeName="cx" values="180;280" dur="3s" fill="freeze"/>
+  </circle>
+ </svg> -->
